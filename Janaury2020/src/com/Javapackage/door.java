@@ -9,6 +9,7 @@ public class door
 		System.out.println("kkkkkkk");
 		System.out.println("lllllll");
 		System.out.println("ooooooo");
+		System.out.println("pppppppp");
 		
 		
 		
